@@ -153,6 +153,11 @@ img{
     color: #ff0000;
     text-shadow: 1px 1px 8px rgb(0, 0, 0);
 }
+.logo h1{
+    color:#ec0000;
+    text-shadow: 1px 1px 8px rgba(5, 4, 4, 0.349);
+
+}
 span{
     text-decoration: underline;
     color: #000;
